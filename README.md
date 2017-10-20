@@ -4,10 +4,12 @@ This GitHub repo is a call for a collective effort in refactoring the foundation
 the "practical" theories stays the same, but we'll try to get a meaningful conceptual framework, 
 out of this messy theorethical patchwork.
 
-It's about Physics, but it will from an IT perspective, anybody on GitHub can join, 
+It's just a set of web pages, images and videos for talking about Physics: at least that's 
+[what the web had been invented for](https://en.wikipedia.org/wiki/World_Wide_Web), right? 
+
+It's about Physics, but it will from an IT perspective, so anybody on GitHub can join, 
 as long as they survive either the complete [Theoretical Minimum](http://theoreticalminimum.com) by Susskind
 or this shorter [Contemporary Physics Recap](http://pirsa.org/displayFlash.php?id=12040020) by Rovelli.
-
 
 TODO: 
  - get index.html contents revised
