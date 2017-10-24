@@ -11,8 +11,14 @@ It's about Physics, but it will from an IT perspective, so anybody on GitHub can
 as long as they survive either the complete [Theoretical Minimum](http://theoreticalminimum.com) by Susskind
 or this shorter [Contemporary Physics Recap](http://pirsa.org/displayFlash.php?id=12040020) by Rovelli.
 
-TODO: 
- - get index.html contents revised
- - define site structure and link it in index.html
- - define stylesheet and look and feel?
- - implement external POM for mvn:site deploy to smix.eu (or maybe to the github repo-wiki?)
+TODO:
+ - get index.html contents revised (maybe let index.html do the index and move to "intro" page")
+ - finish "why from IT perspective" and "Rovelli recap commented"
+ - clarify project structure: let these html pages be the "site" of a maven proj:
+     - recover and import wave applet and similar demonstration code (java)
+     - port testSDL to java 3D (later)
+     - align site structure to mvn:site structure (find nicer skin?)
+     - align stylesheet and look and feel to mvn:sites style (find nicer skin?)
+
+
+Anybody interested can open issues on the contents (correctness, clarity, etc), or help with any item in the TODOs list.
