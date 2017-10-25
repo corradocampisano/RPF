@@ -12,8 +12,10 @@ as long as they survive either the complete [Theoretical Minimum](http://theoret
 or this shorter [Contemporary Physics Recap](http://pirsa.org/displayFlash.php?id=12040020) by Rovelli.
 
 TODO:
- - get index.html contents revised (maybe let index.html do the index and move to "intro" page")
- - finish "why from IT perspective" and "Rovelli recap commented"
+ - get index.html contents revised 
+     - maybe let index.html do the index and move current contents to "intro" page"
+ - get "why from IT perspective" revised
+ - finish "Rovelli recap commented" (quite long task)
  - clarify project structure: let these html pages be the "site" of a maven proj:
      - recover and import wave applet and similar demonstration code (java)
      - port testSDL to java 3D (later)
